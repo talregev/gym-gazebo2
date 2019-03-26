@@ -5,7 +5,7 @@ repositories:
         version: ros2
     turtlebot3/turtlebot3:
         type: git
-        url:https://github.com/ROBOTIS-GIT/turtlebot3
+        url: https://github.com/ROBOTIS-GIT/turtlebot3
         version: ros2
     turtlebot3/turtlebot3_msgs:
         type: git
